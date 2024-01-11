@@ -1,1 +1,1 @@
-# TURKO
+# TURKO node modullerinin eklenmesi lazm
